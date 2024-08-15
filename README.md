@@ -8,6 +8,7 @@ This project analyzes the impact of two employment programs—MPower and JobQues
 
 - **`Stats Testing Data Nov 2023 (3).xlsx`**: The dataset used for this analysis.
 - **`Analysis_Script.R`**: R script containing all data processing, analysis, and visualization code.
+- **`survey_analysis_report.doc`**: A detailed report summarizing the findings of the survey analysis.
 - **`README.md`**: This file, providing an overview and instructions for the project.
 
 ## Analysis Summary
